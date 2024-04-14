@@ -8,7 +8,7 @@ If you like following a long in a video form, here's a session from Google I/O 2
 
 Clone this repository, or, [open it in a cloud editor such as CloudSandbox](https://codesandbox.io/p/github/mmocny/inp-codesandbox-nextjs)).
 
-If you cloned the repo, run `npm run dev` or follow the [NextJS development guide](https://nextjs.org/docs/getting-started/installation#run-the-development-server).
+If you cloned the repo, install the dependencies `npm install`, and run it with `npm run dev` or follow the [NextJS development guide](https://nextjs.org/docs/getting-started/installation#run-the-development-server).
 
 Make edits in `app/page.tsx`, and follow the instructions in this Readme.
 
